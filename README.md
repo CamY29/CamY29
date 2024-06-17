@@ -1,11 +1,22 @@
-<h1>Hi, I'm Camryn! </h1>
+<h1>Camryn Young </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+ 🔭 I’m currently working on Certifications and building a professional portfolio.
+ 
+🌱 I’m currently learning cloud basics, python, and HTML.
 
-- <b>General Title here (edit later) </b>
-  - [Specific Title here](link here)
-  - [Specific Title here](link here)
+⚡ Fun fact, I am a Marine Corps Veteran.
 
+<h2>Projects</h2>
+
+- [General name](link)
+- [General name](link)
+
+<h2>Tech Stack</h2>
+
+- [Python](https://coursera.org/verify/T7D8N2PL42KC)
+- [SQL](https://coursera.org/verify/XDDDBPQAETSQ)
+- [Linux](https://coursera.org/verify/XDDDBPQAETSQ)
+  
 <h2>Certifications </h2>
 
 - [CompTIA Security+ (In Progress)](link)
@@ -14,9 +25,16 @@
   
 - [Google Cybersecurity](https://coursera.org/verify/professional-cert/35AZPFM9VV64)
 
-<h2> Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/camryn-young?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<h2>Skills</h2>
 
-- 🔭 I’m currently working on Certifications and building a professional portfolio.
-- 🌱 I’m currently learning cloud basics, python, and HTML.
-- ⚡ Fun fact, I am a Marine Corps Veteran.
+- [Security Information and Event Management (SIEM)](https://coursera.org/verify/N73K5R3DRK43)
+- [Packet Analyzer (Packet Sniffer)](https://coursera.org/verify/N73K5R3DRK43)
+- [Authentication Systems](https://coursera.org/verify/HE5YXQKS78LF)
+- [Cryptography](https://coursera.org/verify/HE5YXQKS78LF)
+- [Vulnerability](https://coursera.org/verify/HE5YXQKS78LF)
+  
+<h2> Connect with me:</h2>
+
+[LinkedIn](https://www.linkedin.com/in/camryn-young/)
+
+
