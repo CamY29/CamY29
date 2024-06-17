@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Camryn! </h1>
 
-<!--
-**CamY29/CamY29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>General Title here (edit later) </b>
+  - [Specific Title here](link here)
+  - [Specific Title here](link here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications </h2>
+
+- [CompTIA Security+ (In Progress)](link)
+  
+- [AWS Cloud Practitioner (In Progress)](link)
+  
+- [Google Cybersecurity](https://coursera.org/verify/professional-cert/35AZPFM9VV64)
+
+<h2> Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/camryn-young?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+- 🔭 I’m currently working on Certifications and building a professional portfolio.
+- 🌱 I’m currently learning cloud basics, python, and HTML.
+- ⚡ Fun fact, I am a Marine Corps Veteran.
