@@ -13,7 +13,7 @@
 <h2>Tech Stack</h2>
 
 - [Python](https://coursera.org/verify/T7D8N2PL42KC)
-- [SQL Fundementals](https://coursera.org/verify/XDDDBPQAETSQ)
+- [SQL Fundamentals](https://coursera.org/verify/XDDDBPQAETSQ)
 - [Linux](https://coursera.org/verify/XDDDBPQAETSQ)
   
 <h2>Certifications </h2>
